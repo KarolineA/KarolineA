@@ -2,6 +2,10 @@
 ## I'm Kas!
 **Lover of Technology, Games and Coding 💓**
 
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KarolineA)
 
 :computer: I'm Full Stack Developer!
