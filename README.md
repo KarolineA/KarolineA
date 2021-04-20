@@ -4,6 +4,14 @@
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KarolineA)
 
+**:computer: I'm Full Stack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.**
+
 
 <!--
 **KarolineA/KarolineA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
