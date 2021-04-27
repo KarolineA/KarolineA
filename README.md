@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Kas!
+## I'm Karoline!
 **Lover of Technology, Games and Coding 💓**
 
 ## About me
