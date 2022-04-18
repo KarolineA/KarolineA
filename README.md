@@ -8,7 +8,7 @@
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KarolineA)
 
-:computer: I'm future Full stack developer!
+:computer: I'm future analyst cybersecurity!
 
 :house_with_garden: I’m from Brazil.
 
