@@ -1,8 +1,8 @@
 # Hi 👋
-## I'm Karoline!
+### I'm Karoline!
 **Lover of Technology, Games and Coding 💓**
 
-## About me
+### About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]( https://www.linkedin.com/in/karolinea)
 
