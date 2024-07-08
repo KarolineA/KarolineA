@@ -8,13 +8,13 @@
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KarolineA)
 
-:computer: I'm future ?
+:computer: I'm future mobile developer 
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything about mobile and cybersecurity.
 
-:outbox_tray: 2021 Goals: find a job.
+:outbox_tray: 2024 Goals: find a job.
 
 📫 How to reach me: Contato_kas@outlook.com
 
